@@ -146,3 +146,12 @@ Local Variables:
 compile-command: "(cd ~/WWW; upload sitestyle.css)"
 End:
 */
+
+
+/*<![CDATA[*/
+ dt.c4 {font-weight: bold}
+ span.c3 {color: #ff0000}
+ p.c2 {font-style: italic; text-align: center}
+ h1.c1 {color: #ff0000; text-align: center}
+/*]]>*/
+
